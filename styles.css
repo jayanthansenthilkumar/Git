@@ -13,3 +13,11 @@ body {
 h1 {
     color: #333;
 }
+button{
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
